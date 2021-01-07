@@ -37,4 +37,10 @@ Gatling DSL handles all these scenarios using different feeder strategies:
 
 To run the test:-
 
-sbt gatling:test
+Open the terminal and move in the Directory
+$ cd Data-driven-framework-for-gatling/
+$ cd gatling-dataDrivenFramework/
+
+and then run the command
+
+$ sbt gatling:test
